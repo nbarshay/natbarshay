@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /offerings/
-title: offerings
-description: What can I, do for you?
+title: Offerings
+description: 
 nav: true
 nav_order: 1
 ---
