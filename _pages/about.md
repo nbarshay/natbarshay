@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I am...
+subtitle: In no particular order, I am...
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
