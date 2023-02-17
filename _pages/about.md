@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: In no particular order, I am...
+subtitle: 
 
 profile:
   align: right
@@ -13,6 +13,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+In no particular order, I am...
+
 - The holder of a B.S. in Computer Science
 - Retired from the tech industry
 - Such a frequent walk taker that the neighbors have started to comment
