@@ -13,4 +13,4 @@ My experience is that--due to a tragic lack of interdisciplinary cooperation--a 
 
 #### Testimonials
 
-I could have graduated almost a year earlier if I had this code at this start of my PhD, and it took them only an hour to write! Grrrrrrrr." — <a href="https://emes.unc.edu/people-indiv/michael-sandstrom/">Dr. Michael Sandstrom</a>
+"I could have graduated almost a year earlier if I had this code at this start of my PhD, and it took them only an hour to write! Grrrrrrrr." — <a href="https://emes.unc.edu/people-indiv/michael-sandstrom/">Dr. Michael Sandstrom</a>
