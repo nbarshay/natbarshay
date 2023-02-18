@@ -7,9 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-__I generally work for free__.  
-This is because I have the privilege, and I like being useful, and I don't like capitalism.  
-If the hours really start to pile up, or if you or your institution are very wealthy, we can discuss an appropriate donation in lieu of a fee.
+__I generally work for free__.  This is because I have the privilege, and I like being useful, and I don't like capitalism.  If the hours really start to pile up, or if you or your institution are very wealthy, we can discuss an appropriate donation in lieu of a fee.
 
 ### Research Data Science
 
