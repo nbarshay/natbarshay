@@ -9,7 +9,7 @@ nav_order: 1
 
 __I generally work for free__.
 If the hours really start to pile up, or if you or your institution are very wealthy, we can discuss an appropriate donation in lieu of a fee.
-If you're concerned that I'll never actually finish your project unless my livelihood depends on it... take faith in my love the work.
+If you're concerned that I'll never actually finish your project unless my livelihood depends on it... have faith in my love the work.
 It's the only reason I ever did anything anyway.
 
 ### Research Data Science
