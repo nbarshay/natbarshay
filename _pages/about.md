@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 In no particular order, I am...
 
 - The holder of a B.S. in Computer Science
-- Retired from the tech industry
+- Mostly retired from the tech industry
 - Such a frequent walk taker that the neighbors have started to comment
-- Probably an anarchist, certainly against violent and oppressive insitutions
+- Kind of an anarchist, certainly against violent and oppressive insitutions
 - Vocally critical of the cat person, dog person binary
 - A cat person
 - A Jew from Connecticut
@@ -30,5 +30,3 @@ In no particular order, I am...
 - A human formerly very skilled at programming contests (go CMU Dragons?)
 - A maker of classical music sounds
 - Smitten by most mockingbirds
-
-
