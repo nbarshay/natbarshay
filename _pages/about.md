@@ -24,7 +24,6 @@ In no particular order, I am...
 - A Jew from Connecticut
 - A book lover who wants to tell you some authors they just love: Ursula Le Guin, Octavia Butler, and Zadie Smith
 - Genderqueer
-- A budding activist
 - Neurodivergent ("duh", we can say now)
 - A fountain of etymological and arboreal fun-facts
 - A human formerly very skilled at programming contests (go CMU Dragons?)
